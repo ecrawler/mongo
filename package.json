@@ -1,0 +1,23 @@
+{
+  "name": "ecrawler-mongo",
+  "version": "1.0.0",
+  "description": "ecrawl mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecrawler/mongo.git"
+  },
+  "keywords": [
+    "ecrawl",
+    "mongo"
+  ],
+  "author": "mr.hungnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecrawler/mongo/issues"
+  },
+  "homepage": "https://github.com/ecrawler/mongo#readme"
+}
